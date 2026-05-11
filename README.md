@@ -13,3 +13,4 @@ The pages include playful beginner activities for lines, a rocket, flower, sun a
 ## Source
 
 - [PDF generator script](./create_painting_pdf.py)
+- [Requirements and design notes](./DESIGN.md)
