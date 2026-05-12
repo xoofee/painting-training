@@ -1,14 +1,15 @@
 # Painting Enlightenment Pages
 
-A 10-page A4 printable PDF for a four-year-old beginner to practice simple drawing and coloring.
+A 50-page A4 printable worksheet set for a four-year-old beginner to practice simple drawing and coloring.
 
 ## PDF
 
-- [Open the painting guide PDF](./painting_enlightenment_10_pages.pdf)
+- [Open the full-color painting guide PDF](./painting_enlightenment_50_pages.pdf)
+- [Open the ink-save painting guide PDF](./painting_enlightenment_50_pages_ink_save.pdf)
 
 ## Contents
 
-The pages include playful beginner activities for lines, a rocket, flower, sun and clouds, fish, house, tree, car, animal face, rainbow, and free drawing.
+The pages include playful beginner activities for lines, rockets, flowers, sun and clouds, fish, houses, trees, vehicles, animal faces, rainbows, balloons, boats, butterflies, stars, mushrooms, fruit, umbrellas, birds, cupcakes, leaves, kites, trains, castles, snowmen, and mixed shape practice.
 
 ## Source
 
